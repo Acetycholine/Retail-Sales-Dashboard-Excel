@@ -32,3 +32,4 @@ How to Use
 1. Download the Excel file
 2. Use the Slicers to filter data
 3. Refresh PivotTables if data changes
+![Retail Sales Dashboard](image.png)
